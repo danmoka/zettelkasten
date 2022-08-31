@@ -7,12 +7,8 @@
         "id": "fc0de451afd40025",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/for.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/for.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +122,15 @@
   },
   "active": "fc0de451afd40025",
   "lastOpenFiles": [
-    "Base/00 Python циклы.md",
+    "Base/range.md",
+    "Templates/Base template.md",
     "Base/Приемы просмотра файлов.md",
-    "Base/Присваивание кортежей в циклах.md",
-    "Base/for.md",
     "Base/while.md",
+    "Base/for.md",
+    "Base/00 Python циклы.md",
+    "Base/Присваивание кортежей в циклах.md",
     "Base/pass.md",
     "Base/continue.md",
-    "Base/break.md",
-    "Base/00 Python.md",
-    "Base/00 продуктивность.md"
+    "Base/break.md"
   ]
 }
