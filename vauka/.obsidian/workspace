@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3c39b40d528b816",
+        "id": "d87690b08f5a4505",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Base template.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Base template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Base template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,16 +116,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Base template.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "d3c39b40d528b816",
-  "lastOpenFiles": []
+  "active": "d5605d75cc826b74",
+  "lastOpenFiles": [
+    "Files/Ghost.png",
+    "Daily/2022-08-31.md",
+    "Base/Мой первый файл.md",
+    "Base/Ссылка на файл, которого нет.md",
+    "Base/Правила.md",
+    "Base/00 продуктивность.md",
+    "Base/kot.md",
+    "Templates/Base template.md",
+    "Templates/Main template.md",
+    "Base/new kot.md"
+  ]
 }
