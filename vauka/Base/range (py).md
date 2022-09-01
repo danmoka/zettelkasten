@@ -9,8 +9,8 @@ Tags: #z #dev
 
 ---
 ### Zero-Links
-- [[00 Python циклы]]
+- [[Циклы (py)]]
 
 ---
 ### Links
-- [[for]]
+- [[for (py)]]

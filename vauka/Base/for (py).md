@@ -28,7 +28,7 @@ else:
 
 ---
 ### Zero-Links
-- [[00 Python циклы]]
+- [[Циклы (py)]]
 
 ---
 ### Links
