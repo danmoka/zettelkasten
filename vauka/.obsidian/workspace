@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "03a6aaa459ec9048",
+        "id": "a65b009007d56788",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Утиная типизация.md",
+            "file": "Base/global (py).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:00",
+                "query": "tag:#quest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Утиная типизация.md",
+                "file": "Base/global (py).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Утиная типизация.md",
+                "file": "Base/global (py).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Утиная типизация.md"
+                "file": "Base/global (py).md"
               }
             }
           }
@@ -125,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "03a6aaa459ec9048",
+  "active": "a65b009007d56788",
   "lastOpenFiles": [
+    "Base/nonlocal (py).md",
+    "Base/Локальные переменные (py).md",
+    "Base/Замыкания (py).md",
+    "Base/Изучаем Python, Том 1, издание 5, Марк Лутц.md",
+    "Base/00 Книги.md",
+    "Base/Утиная типизация.md",
     "Base/00 Разработка.md",
     "Base/Полиморфизм.md",
     "Base/Полиморфизм (py).md",
-    "Base/Локальные переменные (py).md",
-    "Base/00 Продуктивность.md",
-    "Base/Циклы (py).md",
-    "Base/00 Python.md",
-    "Base/00 Python функции.md",
-    "Base/Функция (py).md",
-    "Base/00 Область видимости в Python.md"
+    "Base/00 Продуктивность.md"
   ]
 }
