@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a65b009007d56788",
+        "id": "62e586dd8ebc88b1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Словарь (py).md",
+            "file": "Base/datetime (py).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#quest",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Словарь (py).md",
+                "file": "Base/datetime (py).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Словарь (py).md",
+                "file": "Base/datetime (py).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Словарь (py).md"
+                "file": "Base/datetime (py).md"
               }
             }
           }
@@ -125,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "a65b009007d56788",
+  "active": "62e586dd8ebc88b1",
   "lastOpenFiles": [
-    "Base/Операции над словарями (py).md",
-    "Base/Словарь (py).md",
+    "Base/math (py).md",
+    "Base/Сериализация (py).md",
+    "Base/Операции над файлами (py).md",
+    "Base/Операции над списками (py).md",
+    "Base/Файлы (py).md",
+    "Base/Кортежи (py).md",
     "Base/Присваивание кортежей в циклах (py).md",
-    "Base/Правила.md",
-    "Base/Встроенные типы данных (py).md",
-    "Base/Передача аргументов (py).md",
-    "Base/return (py).md",
-    "Base/== и is (py).md",
-    "Base/Разделяемые ссылки (py).md",
-    "Base/Динамическая типизация (py).md"
+    "Files/Pasted image 20220903105339.png",
+    "Daily/2022-09-03.md",
+    "Base/Списки (py).md"
   ]
 }

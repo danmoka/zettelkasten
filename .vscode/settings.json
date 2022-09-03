@@ -1,8 +1,11 @@
 {
     "cSpell.words": [
+        "десериализовать",
+        "сериализовать",
         "nonlocal",
         "readline",
         "readlines",
-        "rstrip"
+        "rstrip",
+        "writelines"
     ]
 }
