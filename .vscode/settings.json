@@ -8,10 +8,15 @@
         "суперклассов",
         "суперклассом",
         "abstractmethod",
+        "delattr",
+        "getattr",
+        "getitem",
         "nonlocal",
         "readline",
         "readlines",
         "rstrip",
+        "setattr",
+        "setitem",
         "writelines"
     ]
 }

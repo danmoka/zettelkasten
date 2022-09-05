@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f6a7a9fea910004d",
+        "id": "a65b009007d56788",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Магические методы (py).md",
+            "file": "Base/Дескриптор (py).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "__init",
+                "query": "tag:#quest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Магические методы (py).md",
+                "file": "Base/Дескриптор (py).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Магические методы (py).md",
+                "file": "Base/Дескриптор (py).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Магические методы (py).md"
+                "file": "Base/Дескриптор (py).md"
               }
             }
           }
@@ -126,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "37ad74615021a36d",
+  "active": "a65b009007d56788",
   "lastOpenFiles": [
-    "Base/Перегрузка операций (py).md",
     "Base/Магические методы (py).md",
-    "Base/Область видимости (py).md",
-    "Files/Пространства имен 2.png",
-    "Files/Пространства имен 1.png",
-    "Files/Pasted image 20220904175803.png",
-    "Files/Pasted image 20220903125150.png",
-    "Files/Pasted image 20220903125122.png",
-    "Files/Pasted image 20220903125059.png",
-    "Files/Pasted image 20220903125026.png"
+    "Base/Декораторы (py).md",
+    "Base/Словарь (py).md",
+    "Base/Операции над словарями (py).md",
+    "Base/Присваивание кортежей в циклах (py).md",
+    "Base/Правила.md",
+    "Base/Встроенные типы данных (py).md",
+    "Base/Передача аргументов (py).md",
+    "Base/return (py).md",
+    "Base/== и is (py).md"
   ]
 }
