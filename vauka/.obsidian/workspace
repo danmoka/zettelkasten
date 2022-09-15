@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a65b009007d56788",
+        "id": "0d9397b2a4364f89",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Дескриптор (py).md",
+            "file": "Base/Схемы (pgsql).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#quest",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Дескриптор (py).md",
+                "file": "Base/Схемы (pgsql).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Дескриптор (py).md",
+                "file": "Base/Схемы (pgsql).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Дескриптор (py).md"
+                "file": "Base/Схемы (pgsql).md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a65b009007d56788",
+  "active": "0d9397b2a4364f89",
   "lastOpenFiles": [
-    "Base/Магические методы (py).md",
-    "Base/Декораторы (py).md",
-    "Base/Словарь (py).md",
-    "Base/Операции над словарями (py).md",
-    "Base/Присваивание кортежей в циклах (py).md",
-    "Base/Правила.md",
-    "Base/Встроенные типы данных (py).md",
-    "Base/Передача аргументов (py).md",
-    "Base/return (py).md",
-    "Base/== и is (py).md"
+    "Base/Политика защиты строк (pgsql).md",
+    "Base/Права (pgsql).md",
+    "Base/Ограничения исключения (pgsql).md",
+    "Base/Ограничения внешнего ключа (pgsql).md",
+    "Base/Ограничение первичного ключа (pgsql).md",
+    "Base/Ограничения уникальности (pgsql).md",
+    "Base/Ограничение NOT NULL (pgsql).md",
+    "Base/Ограничение-проверка (pgsql).md",
+    "Base/Ограничения (pgsql).md",
+    "Base/Значения по умолчанию (pgsql).md"
   ]
 }

@@ -1,8 +1,8 @@
-15092022 1013
+15092022 1012
 Tags: #dev
 
 ---
-# 00 Python
+# 00 PostgreSQL
 
 ---
 ### Zero-Links
