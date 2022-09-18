@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0d9397b2a4364f89",
+        "id": "bee65ed87e507b95",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Схемы (pgsql).md",
+            "file": "Base/Возврат данных из измененных строк (pgsql).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Схемы (pgsql).md",
+                "file": "Base/Возврат данных из измененных строк (pgsql).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Схемы (pgsql).md",
+                "file": "Base/Возврат данных из измененных строк (pgsql).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Схемы (pgsql).md"
+                "file": "Base/Возврат данных из измененных строк (pgsql).md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d9397b2a4364f89",
+  "active": "bee65ed87e507b95",
   "lastOpenFiles": [
-    "Base/Политика защиты строк (pgsql).md",
-    "Base/Права (pgsql).md",
-    "Base/Ограничения исключения (pgsql).md",
-    "Base/Ограничения внешнего ключа (pgsql).md",
-    "Base/Ограничение первичного ключа (pgsql).md",
-    "Base/Ограничения уникальности (pgsql).md",
-    "Base/Ограничение NOT NULL (pgsql).md",
-    "Base/Ограничение-проверка (pgsql).md",
-    "Base/Ограничения (pgsql).md",
-    "Base/Значения по умолчанию (pgsql).md"
+    "Base/Удаление данных (pgsql).md",
+    "Base/Изменение данных (pgsql).md",
+    "Base/Добавление данных (pgsql).md",
+    "Base/Модификация данных (pgsql).md",
+    "Base/Исключение по ограничению (pgsql).md",
+    "Base/Создание секционированной таблицы (pgsql).md",
+    "Base/Секционирование (pgsql).md",
+    "Base/Схемы и права (pgsql).md",
+    "Base/Путь поиска схемы (pgsql).md",
+    "Base/Схемы (pgsql).md"
   ]
 }
