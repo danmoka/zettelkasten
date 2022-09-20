@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Возврат данных из измененных строк (pgsql).md",
+            "file": "Base/Массивы (pgsql).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Возврат данных из измененных строк (pgsql).md",
+                "file": "Base/Массивы (pgsql).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Возврат данных из измененных строк (pgsql).md",
+                "file": "Base/Массивы (pgsql).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Возврат данных из измененных строк (pgsql).md"
+                "file": "Base/Массивы (pgsql).md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "bee65ed87e507b95",
   "lastOpenFiles": [
-    "Base/Удаление данных (pgsql).md",
-    "Base/Изменение данных (pgsql).md",
-    "Base/Добавление данных (pgsql).md",
-    "Base/Модификация данных (pgsql).md",
-    "Base/Исключение по ограничению (pgsql).md",
-    "Base/Создание секционированной таблицы (pgsql).md",
-    "Base/Секционирование (pgsql).md",
-    "Base/Схемы и права (pgsql).md",
-    "Base/Путь поиска схемы (pgsql).md",
-    "Base/Схемы (pgsql).md"
+    "Base/JSON (pgsql).md",
+    "Base/Логические тип (pgsql).md",
+    "Base/Числа с плавающей точкой (pgsql).md",
+    "Base/Числа с произвольной точностью (pgsql).md",
+    "Base/Целочисленные типы (pgsql).md",
+    "Base/Числовые типы (pgsql).md",
+    "Base/Списки выборки (pgsql).md",
+    "Base/Сочетание запросов (pgsql).md",
+    "Base/LIMIT и OFFSET (pgsql).md",
+    "Base/Предложение GROUP BY и HAVING (pgsql).md"
   ]
 }
