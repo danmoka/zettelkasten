@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bee65ed87e507b95",
+        "id": "ff78c40921cd7d66",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Преобразование типов (pgsql).md",
+            "file": "Base/WITH (CTE) (pgsql).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "INSERT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Преобразование типов (pgsql).md",
+                "file": "Base/WITH (CTE) (pgsql).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Преобразование типов (pgsql).md",
+                "file": "Base/WITH (CTE) (pgsql).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Преобразование типов (pgsql).md"
+                "file": "Base/WITH (CTE) (pgsql).md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bee65ed87e507b95",
+  "active": "ff78c40921cd7d66",
   "lastOpenFiles": [
-    "Base/Диапазонные функции (pgsql).md",
-    "Base/Оконные функции (pgsql).md",
-    "Base/Сравнение табличных строк и массивов (pgsql).md",
-    "Base/Условные выражения (pgsql).md",
-    "Base/Функции и операторы (pgsql).md",
-    "Base/Массивы (pgsql).md",
-    "Base/JSON (pgsql).md",
-    "Base/Логические тип (pgsql).md",
-    "Base/Числа с плавающей точкой (pgsql).md",
-    "Base/Числа с произвольной точностью (pgsql).md"
+    "Base/Добавление данных (pgsql).md",
+    "Base/WITH (CTE) (pgsql).md",
+    "Base/Возврат данных из измененных строк (pgsql).md",
+    "Base/Сочетание запросов (pgsql).md",
+    "Base/Вызов функций (pgsql).md",
+    "Base/Ограничения исключения (pgsql).md",
+    "Base/Параллельные планы (pgsql).md",
+    "Base/Применение параллельных запросов (pgsql).md",
+    "Base/Блокировки и индексы (pgsql).md",
+    "Base/Изоляция транзакций (pgsql).md"
   ]
 }
