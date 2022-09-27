@@ -20,10 +20,8 @@ Tags: #z #dev
 
 ---
 ### Zero-Links
-- first
-- second
+- 
 
 ---
 ### Links
-- first
-- second
+- [[Функции и операторы (pgsql)]]

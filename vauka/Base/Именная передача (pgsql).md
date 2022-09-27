@@ -31,10 +31,8 @@ SELECT concat_lower_or_upper(a => 'Hello', b => 'World', uppercase => true)
 
 ---
 ### Zero-Links
-- first
-- second
+- [[00 PostgreSQL]]
 
 ---
 ### Links
-- first
-- second
+- 

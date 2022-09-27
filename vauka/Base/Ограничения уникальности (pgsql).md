@@ -28,10 +28,8 @@ CREATE TABLE product (
 
 ---
 ### Zero-Links
-- first
-- second
+- 
 
 ---
 ### Links
-- first
-- second
+- [[Добавление данных (pgsql)]]

@@ -18,8 +18,8 @@ Tags: #z #dev
 
 ---
 ### Zero-Links
-- 
+- [[00 PostgreSQL]]
 
 ---
 ### Links
-- [[Проверка целостности данных (pgsql)]]
+- 

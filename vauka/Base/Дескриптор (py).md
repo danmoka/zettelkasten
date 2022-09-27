@@ -32,10 +32,8 @@ print(sv.my_attr)
 
 ---
 ### Zero-Links
-- first
-- second
+- [[00 Python]]
 
 ---
 ### Links
-- first
-- second
+- 

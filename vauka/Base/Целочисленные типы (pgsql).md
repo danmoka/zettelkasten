@@ -14,7 +14,7 @@ Tags: #z #dev
 
 ---
 ### Links
-- [[Целочисленные типы (pgsql)]]
+- [[Числовые типы (pgsql)]]
 
 ---
 ### Outer links
