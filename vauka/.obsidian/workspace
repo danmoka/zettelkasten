@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/OCP (архитектура).md",
+            "file": "Base/Обработка ошибок (py).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/OCP (архитектура).md",
+                "file": "Base/Обработка ошибок (py).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/OCP (архитектура).md",
+                "file": "Base/Обработка ошибок (py).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/OCP (архитектура).md"
+                "file": "Base/Обработка ошибок (py).md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "bee61161537c8aee",
   "lastOpenFiles": [
+    "Base/OCP (архитектура).md",
     "Base/SRP (архитектура).md",
     "Base/SOLID.md",
     "Daily/2022-09-15.md",
@@ -138,7 +139,6 @@
     "Base/ООП (архитектура).md",
     "Base/Структурное программирование.md",
     "Base/00 Архитектура.md",
-    "Base/Две ценности ПО.md",
-    "Base/Пример архитектуры из практики.md"
+    "Base/Две ценности ПО.md"
   ]
 }
