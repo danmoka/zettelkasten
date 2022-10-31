@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "638ca9903ba0c727",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c6c0dfb0820bcb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6fc62fc553c3caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/LSP (архитектура).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c77afac7277e45b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f23eac924cf24d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5605d75cc826b74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37ad74615021a36d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "oCP",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "795c9601bea4026d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da8a9f3f75b42f78",
+    "type": "split",
+    "children": [
+      {
+        "id": "88582c3310518c49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19047532efa02d41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/LSP (архитектура).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "426456b60ad07d2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/LSP (архитектура).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2dea19746f5dd5e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70c87183972f07ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/LSP (архитектура).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f6fc62fc553c3caf",
+  "lastOpenFiles": [
+    "Base/OCP (архитектура).md",
+    "Base/Обработка ошибок (py).md",
+    "Base/SRP (архитектура).md",
+    "Base/SOLID.md",
+    "Daily/2022-09-15.md",
+    "Base/Event sourcing.md",
+    "Base/Функциональное программирование.md",
+    "Base/ООП (архитектура).md",
+    "Base/Структурное программирование.md",
+    "Base/00 Архитектура.md"
+  ]
+}
