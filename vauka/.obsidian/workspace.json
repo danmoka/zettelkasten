@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/LSP (архитектура).md",
+                "file": "Base/DIP (архитектура).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oCP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/LSP (архитектура).md",
+                "file": "Base/DIP (архитектура).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/LSP (архитектура).md",
+                "file": "Base/DIP (архитектура).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/LSP (архитектура).md"
+                "file": "Base/DIP (архитектура).md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "f6fc62fc553c3caf",
   "lastOpenFiles": [
+    "Base/ISP (архитектура).md",
+    "Base/SOLID.md",
+    "Base/LSP (архитектура).md",
     "Base/OCP (архитектура).md",
     "Base/Обработка ошибок (py).md",
     "Base/SRP (архитектура).md",
-    "Base/SOLID.md",
     "Daily/2022-09-15.md",
     "Base/Event sourcing.md",
     "Base/Функциональное программирование.md",
-    "Base/ООП (архитектура).md",
-    "Base/Структурное программирование.md",
-    "Base/00 Архитектура.md"
+    "Base/ООП (архитектура).md"
   ]
 }
