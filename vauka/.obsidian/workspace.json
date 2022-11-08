@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/DIP (архитектура).md",
+                "file": "Base/Монолит vs микросервис.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/DIP (архитектура).md",
+                "file": "Base/Монолит vs микросервис.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/DIP (архитектура).md",
+                "file": "Base/Монолит vs микросервис.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/DIP (архитектура).md"
+                "file": "Base/Монолит vs микросервис.md"
               }
             }
           }
@@ -134,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "f6fc62fc553c3caf",
   "lastOpenFiles": [
-    "Base/ISP (архитектура).md",
-    "Base/SOLID.md",
-    "Base/LSP (архитектура).md",
-    "Base/OCP (архитектура).md",
-    "Base/Обработка ошибок (py).md",
-    "Base/SRP (архитектура).md",
-    "Daily/2022-09-15.md",
-    "Base/Event sourcing.md",
-    "Base/Функциональное программирование.md",
-    "Base/ООП (архитектура).md"
+    "Base/Микросервисы, Крис Ричардсон.md",
+    "Base/Монолит vs микросервис.md",
+    "Base/Чистая архитектура, Роберт Мартин.md",
+    "Base/pylint.md",
+    "Base/Создание таблиц (ClickHouse).md",
+    "Base/Создание приложения на aiohttp.md",
+    "Base/Декоратор (py).md",
+    "Base/Диаграммы последовательностей.md",
+    "Base/DIP (архитектура).md",
+    "Base/ISP (архитектура).md"
   ]
 }
