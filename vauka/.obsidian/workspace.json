@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/SDP (устойчивость).md",
+                "file": "Base/SAP (абстрактность).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/SDP (устойчивость).md",
+                "file": "Base/SAP (абстрактность).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/SDP (устойчивость).md",
+                "file": "Base/SAP (абстрактность).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/SDP (устойчивость).md"
+                "file": "Base/SAP (абстрактность).md"
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "d9c3810530f10111",
   "lastOpenFiles": [
+    "Base/SDP (устойчивость).md",
+    "Base/SAP (абстрактность).md",
     "Base/Синдром следующего утра.md",
     "Base/CRP (связность).md",
     "Base/Компоненты.md",
-    "Base/SDP (устойчивость).md",
     "Base/CCP (связность).md",
     "Base/SRP (архитектура).md",
     "Base/Противоречия связности.md",
     "Base/Чистая архитектура, Роберт Мартин.md",
-    "Base/REP (связность).md",
-    "Base/Монолит vs микросервис.md"
+    "Base/REP (связность).md"
   ]
 }
