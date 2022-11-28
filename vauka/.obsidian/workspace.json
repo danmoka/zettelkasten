@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a9a00354716a82c0",
+        "id": "d7a4eddf6cbeafda",
         "type": "tabs",
         "children": [
           {
-            "id": "d9c3810530f10111",
+            "id": "8c093f1523a72848",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/SDP (устойчивость).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "устойч",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/SDP (устойчивость).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/SDP (устойчивость).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,28 +118,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/SDP (устойчивость).md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "d9c3810530f10111",
+  "active": "d5605d75cc826b74",
   "lastOpenFiles": [
-    "Base/Синдром следующего утра.md",
-    "Base/CRP (связность).md",
-    "Base/Компоненты.md",
     "Base/SDP (устойчивость).md",
-    "Base/CCP (связность).md",
-    "Base/SRP (архитектура).md",
-    "Base/Противоречия связности.md",
-    "Base/Чистая архитектура, Роберт Мартин.md",
-    "Base/REP (связность).md",
-    "Base/Монолит vs микросервис.md"
+    "Base/Проведение границ (архитектура).md",
+    "Base/Абс.md",
+    "Base/Независимость (архитектура).md",
+    "Base/Repository и DAO.md",
+    "Base/00 Паттерны.md",
+    "Base/00 Архитектура.md",
+    "Base/00 Книги.md",
+    "Base/00 Продуктивность.md",
+    "Base/00 Разработка.md"
   ]
 }
