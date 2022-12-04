@@ -11,8 +11,12 @@
             "id": "8c093f1523a72848",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Кричащая архитектура.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Кричащая архитектура.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Кричащая архитектура.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Кричащая архитектура.md"
+              }
             }
           }
         ]
@@ -128,8 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5605d75cc826b74",
+  "active": "8c093f1523a72848",
   "lastOpenFiles": [
+    "Base/Бизнес правила.md",
+    "Base/Политики и уровень.md",
     "Base/SDP (устойчивость).md",
     "Base/Проведение границ (архитектура).md",
     "Base/Абс.md",
@@ -137,8 +147,6 @@
     "Base/Repository и DAO.md",
     "Base/00 Паттерны.md",
     "Base/00 Архитектура.md",
-    "Base/00 Книги.md",
-    "Base/00 Продуктивность.md",
-    "Base/00 Разработка.md"
+    "Base/00 Книги.md"
   ]
 }
