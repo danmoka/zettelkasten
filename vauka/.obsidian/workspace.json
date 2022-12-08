@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a4eddf6cbeafda",
+        "id": "a9f13a27a93f809e",
         "type": "tabs",
         "children": [
           {
-            "id": "8c093f1523a72848",
+            "id": "a196b962f94e83d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Кричащая архитектура.md",
+                "file": "Base/Проведение границ (архитектура).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "I/A",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Кричащая архитектура.md",
+                "file": "Base/Проведение границ (архитектура).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Кричащая архитектура.md",
+                "file": "Base/Проведение границ (архитектура).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Кричащая архитектура.md"
+                "file": "Base/Проведение границ (архитектура).md"
               }
             }
           }
@@ -133,20 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8c093f1523a72848",
+  "active": "37ad74615021a36d",
   "lastOpenFiles": [
-    "Base/Бизнес правила.md",
-    "Base/Политики и уровень.md",
+    "Base/Две ценности ПО.md",
+    "Base/Чистая архитектура, Роберт Мартин.md",
+    "Base/00 Книги.md",
+    "Base/Изучаем Python, Том 1, издание 5, Марк Лутц.md",
+    "Base/Полиморфизм (py).md",
+    "Base/Функция (py).md",
+    "Base/Дескриптор (py).md",
     "Base/SDP (устойчивость).md",
     "Base/Проведение границ (архитектура).md",
-    "Base/Абс.md",
-    "Base/Независимость (архитектура).md",
-    "Base/Repository и DAO.md",
-    "Base/00 Паттерны.md",
-    "Base/00 Архитектура.md",
-    "Base/00 Книги.md"
+    "Base/Абс.md"
   ]
 }
