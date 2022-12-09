@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Проведение границ (архитектура).md",
+                "file": "Base/Чистая архитектура и границы.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "I/A",
+                "query": "уровни",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Проведение границ (архитектура).md",
+                "file": "Base/Чистая архитектура и границы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Проведение границ (архитектура).md",
+                "file": "Base/Чистая архитектура и границы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Проведение границ (архитектура).md"
+                "file": "Base/Чистая архитектура и границы.md"
               }
             }
           }
@@ -134,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "37ad74615021a36d",
+  "active": "a196b962f94e83d6",
   "lastOpenFiles": [
+    "Base/Изоляция транзакций (pgsql).md",
+    "Base/Политики и уровень.md",
+    "Base/Независимость (архитектура).md",
+    "Base/Чистая архитектура и границы.md",
+    "Base/Чистая архитектура и круги.md",
+    "Base/Repository и DAO.md",
+    "Base/Проведение границ (архитектура).md",
     "Base/Две ценности ПО.md",
     "Base/Чистая архитектура, Роберт Мартин.md",
-    "Base/00 Книги.md",
-    "Base/Изучаем Python, Том 1, издание 5, Марк Лутц.md",
-    "Base/Полиморфизм (py).md",
-    "Base/Функция (py).md",
-    "Base/Дескриптор (py).md",
-    "Base/SDP (устойчивость).md",
-    "Base/Проведение границ (архитектура).md",
-    "Base/Абс.md"
+    "Base/00 Книги.md"
   ]
 }
