@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Сервис-ориентированные архитектуры.md",
+                "file": "Base/Встраиваемая архитектура (детали).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Сервис-ориентированные архитектуры.md",
+                "file": "Base/Встраиваемая архитектура (детали).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Сервис-ориентированные архитектуры.md",
+                "file": "Base/Встраиваемая архитектура (детали).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Сервис-ориентированные архитектуры.md"
+                "file": "Base/Встраиваемая архитектура (детали).md"
               }
             }
           }
@@ -138,6 +139,7 @@
   },
   "active": "3175089638afc439",
   "lastOpenFiles": [
+    "Base/Сервис-ориентированные архитектуры.md",
     "Base/Главный компонент.md",
     "Base/Чистая архитектура и границы.md",
     "Base/Изоляция транзакций (pgsql).md",
@@ -146,7 +148,6 @@
     "Base/Чистая архитектура и круги.md",
     "Base/Repository и DAO.md",
     "Base/Проведение границ (архитектура).md",
-    "Base/Две ценности ПО.md",
-    "Base/Чистая архитектура, Роберт Мартин.md"
+    "Base/Две ценности ПО.md"
   ]
 }
