@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Главный компонент.md",
+                "file": "Base/Сервис-ориентированные архитектуры.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Главный компонент.md",
+                "file": "Base/Сервис-ориентированные архитектуры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Главный компонент.md",
+                "file": "Base/Сервис-ориентированные архитектуры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Главный компонент.md"
+                "file": "Base/Сервис-ориентированные архитектуры.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "3175089638afc439",
   "lastOpenFiles": [
+    "Base/Главный компонент.md",
     "Base/Чистая архитектура и границы.md",
     "Base/Изоляция транзакций (pgsql).md",
     "Base/Политики и уровень.md",
@@ -146,7 +147,6 @@
     "Base/Repository и DAO.md",
     "Base/Проведение границ (архитектура).md",
     "Base/Две ценности ПО.md",
-    "Base/Чистая архитектура, Роберт Мартин.md",
-    "Base/00 Книги.md"
+    "Base/Чистая архитектура, Роберт Мартин.md"
   ]
 }
