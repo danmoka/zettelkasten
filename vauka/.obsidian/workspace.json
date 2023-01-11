@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/База данных (архитектура).md",
+                "file": "Base/Веб (архитетура).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/База данных (архитектура).md",
+                "file": "Base/Веб (архитетура).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/База данных (архитектура).md",
+                "file": "Base/Веб (архитетура).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/База данных (архитектура).md"
+                "file": "Base/Веб (архитетура).md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "3175089638afc439",
   "lastOpenFiles": [
+    "Base/База данных (архитектура).md",
     "Base/Встраиваемая архитектура (детали).md",
     "Base/Сервис-ориентированные архитектуры.md",
     "Base/Главный компонент.md",
@@ -147,7 +148,6 @@
     "Base/Политики и уровень.md",
     "Base/Независимость (архитектура).md",
     "Base/Чистая архитектура и круги.md",
-    "Base/Repository и DAO.md",
-    "Base/Проведение границ (архитектура).md"
+    "Base/Repository и DAO.md"
   ]
 }
