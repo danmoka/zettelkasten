@@ -29,7 +29,7 @@ CREATE TABLE my_db.my_tb
 )
 ENGINE = MergeTree()
 ORDER BY timestamp
-SETTINGS index_granularity = 8192``
+SETTINGS index_granularity = 8192
 ```
 
 ## Заполнение данными
@@ -54,7 +54,7 @@ FROM (
 
 ---
 ### Zero-Links
-- [[00 Разработка]]
+- [[00 ClickHouse]]
 
 ---
 ### Links
