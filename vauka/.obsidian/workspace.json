@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cba89c28ca9ba2c0",
+        "id": "0442979de2b016c7",
         "type": "tabs",
         "children": [
           {
-            "id": "873e749a1c0f4183",
+            "id": "8889f426bfbc5cf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Примеры запросов (clickhouse).md",
+                "file": "Base/Хранение данных (docker).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Примеры запросов (clickhouse).md",
+                "file": "Base/Хранение данных (docker).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Примеры запросов (clickhouse).md",
+                "file": "Base/Хранение данных (docker).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Примеры запросов (clickhouse).md"
+                "file": "Base/Хранение данных (docker).md"
               }
             }
           }
@@ -147,11 +147,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "873e749a1c0f4183",
+  "active": "8889f426bfbc5cf8",
   "lastOpenFiles": [
-    "Base/ClickHouse общее.md",
+    "Base/Dockerfile.md",
+    "Base/Хранение данных (docker).md",
+    "Base/00 Docker.md",
     "Base/00 ClickHouse.md",
     "Base/Примеры запросов (clickhouse).md",
+    "Base/ClickHouse общее.md",
     "Base/Создание таблиц (clickhouse).md",
     "Base/Конфигурация (clickhouse).md",
     "Base/Обработка ошибок (py).md",
