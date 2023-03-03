@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Конфигурация (clickhouse).md",
+                "file": "Base/Примеры запросов (clickhouse).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Конфигурация (clickhouse).md",
+                "file": "Base/Примеры запросов (clickhouse).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Конфигурация (clickhouse).md",
+                "file": "Base/Примеры запросов (clickhouse).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Конфигурация (clickhouse).md"
+                "file": "Base/Примеры запросов (clickhouse).md"
               }
             }
           }
@@ -149,12 +149,13 @@
   },
   "active": "873e749a1c0f4183",
   "lastOpenFiles": [
+    "Base/ClickHouse общее.md",
     "Base/00 ClickHouse.md",
+    "Base/Примеры запросов (clickhouse).md",
     "Base/Создание таблиц (clickhouse).md",
     "Base/Конфигурация (clickhouse).md",
     "Base/Обработка ошибок (py).md",
     "Base/Независимость (архитектура).md",
-    "Base/ClickHouse общее.md",
     "Base/Модуль (py).md",
     "Base/Модификация данных (pgsql).md",
     "Base/Веб (архитетура).md",
