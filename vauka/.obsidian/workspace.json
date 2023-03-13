@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Структура проекта (django).md",
+                "file": "Base/gitignore.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Структура проекта (django).md",
+                "file": "Base/gitignore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Структура проекта (django).md",
+                "file": "Base/gitignore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Структура проекта (django).md"
+                "file": "Base/gitignore.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "5f12f04c8a25e32f",
   "lastOpenFiles": [
-    "Base/Debug toolbar (Django).md",
+    "Base/00 Git.md",
+    "Base/gitignore.md",
     "Base/Структура проекта (django).md",
+    "Base/Debug toolbar (Django).md",
     "Base/00 Django.md",
     "Base/00 Docker.md",
     "Base/00 PostgreSQL.md",
