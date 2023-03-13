@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0442979de2b016c7",
+        "id": "dc8f9c68ad64e2f2",
         "type": "tabs",
         "children": [
           {
-            "id": "8889f426bfbc5cf8",
+            "id": "5f12f04c8a25e32f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Доступ к хосту (docker).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cc8a1e565137b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Хранение данных (docker).md",
+                "file": "Base/Структура проекта (django).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Доступ к хосту (docker).md",
+                "file": "Base/Структура проекта (django).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Доступ к хосту (docker).md",
+                "file": "Base/Структура проекта (django).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Доступ к хосту (docker).md"
+                "file": "Base/Структура проекта (django).md"
               }
             }
           }
@@ -159,12 +146,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8889f426bfbc5cf8",
+  "active": "5f12f04c8a25e32f",
   "lastOpenFiles": [
+    "Base/Debug toolbar (Django).md",
+    "Base/Структура проекта (django).md",
+    "Base/00 Django.md",
+    "Base/00 Docker.md",
+    "Base/00 PostgreSQL.md",
+    "Base/00 Python.md",
     "Base/Хранение данных (docker).md",
+    "Base/Регулярные выражения (python).md",
     "Base/Доступ к хосту (docker).md",
     "Base/Dockerfile.md",
-    "Base/00 Docker.md",
     "Base/00 ClickHouse.md",
     "Base/Примеры запросов (clickhouse).md",
     "Base/ClickHouse общее.md",
@@ -174,7 +167,6 @@
     "Base/Независимость (архитектура).md",
     "Base/Модуль (py).md",
     "Base/Модификация данных (pgsql).md",
-    "Base/Веб (архитетура).md",
-    "Base/00 PostgreSQL.md"
+    "Base/Веб (архитетура).md"
   ]
 }
