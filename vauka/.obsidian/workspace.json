@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Base/Доступ к хосту (docker).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cc8a1e565137b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Base/Хранение данных (docker).md",
                 "mode": "source",
                 "source": false
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Хранение данных (docker).md",
+                "file": "Base/Доступ к хосту (docker).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Хранение данных (docker).md",
+                "file": "Base/Доступ к хосту (docker).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Хранение данных (docker).md"
+                "file": "Base/Доступ к хосту (docker).md"
               }
             }
           }
@@ -149,8 +161,9 @@
   },
   "active": "8889f426bfbc5cf8",
   "lastOpenFiles": [
-    "Base/Dockerfile.md",
     "Base/Хранение данных (docker).md",
+    "Base/Доступ к хосту (docker).md",
+    "Base/Dockerfile.md",
     "Base/00 Docker.md",
     "Base/00 ClickHouse.md",
     "Base/Примеры запросов (clickhouse).md",
