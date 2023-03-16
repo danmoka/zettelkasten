@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc8f9c68ad64e2f2",
+        "id": "e5f1bacc2f5e31ac",
         "type": "tabs",
         "children": [
           {
-            "id": "5f12f04c8a25e32f",
+            "id": "b86c11a7d5db92ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Query (django).md",
+                "file": "Base/Загрузка и скачивание файлов (django).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Query (django).md",
+                "file": "Base/Загрузка и скачивание файлов (django).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Query (django).md",
+                "file": "Base/Загрузка и скачивание файлов (django).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Query (django).md"
+                "file": "Base/Загрузка и скачивание файлов (django).md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5f12f04c8a25e32f",
+  "active": "b86c11a7d5db92ea",
   "lastOpenFiles": [
-    "Base/00 Docker.md",
+    "Base/Загрузка и скачивание файлов (django).md",
     "Base/Query (django).md",
+    "Base/00 Docker.md",
     "Base/Dockerfile.md",
     "Base/gitignore.md",
     "Base/00 Git.md",
