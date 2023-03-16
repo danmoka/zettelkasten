@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/gitignore.md",
+                "file": "Base/Query (django).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/gitignore.md",
+                "file": "Base/Query (django).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/gitignore.md",
+                "file": "Base/Query (django).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/gitignore.md"
+                "file": "Base/Query (django).md"
               }
             }
           }
@@ -148,18 +148,19 @@
   },
   "active": "5f12f04c8a25e32f",
   "lastOpenFiles": [
-    "Base/00 Git.md",
+    "Base/00 Docker.md",
+    "Base/Query (django).md",
+    "Base/Dockerfile.md",
     "Base/gitignore.md",
+    "Base/00 Git.md",
     "Base/Структура проекта (django).md",
     "Base/Debug toolbar (Django).md",
     "Base/00 Django.md",
-    "Base/00 Docker.md",
     "Base/00 PostgreSQL.md",
     "Base/00 Python.md",
     "Base/Хранение данных (docker).md",
     "Base/Регулярные выражения (python).md",
     "Base/Доступ к хосту (docker).md",
-    "Base/Dockerfile.md",
     "Base/00 ClickHouse.md",
     "Base/Примеры запросов (clickhouse).md",
     "Base/ClickHouse общее.md",
