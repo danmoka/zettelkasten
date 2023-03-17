@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e5f1bacc2f5e31ac",
+        "id": "f2154e6f8912037f",
         "type": "tabs",
         "children": [
           {
-            "id": "b86c11a7d5db92ea",
+            "id": "e69fc71670730df0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Загрузка и скачивание файлов (django).md",
+                "file": "Base/HTTP client (aiohttp).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c93cee00fb65d78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/HTTP server (aiohttp).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74728a89fc70947c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/DI (aiohttp).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Загрузка и скачивание файлов (django).md",
+                "file": "Base/DI (aiohttp).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Загрузка и скачивание файлов (django).md",
+                "file": "Base/DI (aiohttp).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Загрузка и скачивание файлов (django).md"
+                "file": "Base/DI (aiohttp).md"
               }
             }
           }
@@ -146,8 +172,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b86c11a7d5db92ea",
+  "active": "74728a89fc70947c",
   "lastOpenFiles": [
+    "Base/HTTP server (aiohttp).md",
+    "Base/DI (aiohttp).md",
+    "Base/DIP (архитектура).md",
+    "Base/HTTP client (aiohttp).md",
+    "Base/00 asyncio.md",
+    "Base/00 aiohttp.md",
+    "Base/00 ClickHouse.md",
+    "Base/00 Django.md",
+    "Templates/Base template.md",
     "Base/Загрузка и скачивание файлов (django).md",
     "Base/Query (django).md",
     "Base/00 Docker.md",
@@ -156,21 +191,14 @@
     "Base/00 Git.md",
     "Base/Структура проекта (django).md",
     "Base/Debug toolbar (Django).md",
-    "Base/00 Django.md",
     "Base/00 PostgreSQL.md",
     "Base/00 Python.md",
     "Base/Хранение данных (docker).md",
     "Base/Регулярные выражения (python).md",
     "Base/Доступ к хосту (docker).md",
-    "Base/00 ClickHouse.md",
     "Base/Примеры запросов (clickhouse).md",
     "Base/ClickHouse общее.md",
     "Base/Создание таблиц (clickhouse).md",
-    "Base/Конфигурация (clickhouse).md",
-    "Base/Обработка ошибок (py).md",
-    "Base/Независимость (архитектура).md",
-    "Base/Модуль (py).md",
-    "Base/Модификация данных (pgsql).md",
-    "Base/Веб (архитетура).md"
+    "Base/Конфигурация (clickhouse).md"
   ]
 }
