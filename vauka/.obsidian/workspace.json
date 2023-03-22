@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f2154e6f8912037f",
+        "id": "cfcb1b25a5e43e7b",
         "type": "tabs",
         "children": [
           {
-            "id": "e69fc71670730df0",
+            "id": "279c78d234a22cd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/HTTP client (aiohttp).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c93cee00fb65d78c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/HTTP server (aiohttp).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74728a89fc70947c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/DI (aiohttp).md",
+                "file": "Base/Выбор подхода к разработке.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "роберт",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/DI (aiohttp).md",
+                "file": "Base/Выбор подхода к разработке.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/DI (aiohttp).md",
+                "file": "Base/Выбор подхода к разработке.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/DI (aiohttp).md"
+                "file": "Base/Выбор подхода к разработке.md"
               }
             }
           }
@@ -172,12 +147,22 @@
       "random-note:Open random note": false
     }
   },
-  "active": "74728a89fc70947c",
+  "active": "279c78d234a22cd4",
   "lastOpenFiles": [
-    "Base/HTTP server (aiohttp).md",
+    "Base/Предварительные условия.md",
+    "Base/Выбор подхода к разработке.md",
+    "Base/База данных (архитектура).md",
+    "Base/Бизнес правила.md",
+    "Base/Веб (архитетура).md",
+    "Base/Совершенный код, С. Макконнелл.md",
+    "Base/Встраиваемая архитектура (детали).md",
+    "Base/Главный компонент.md",
+    "Base/Две ценности ПО.md",
+    "Base/Чистая архитектура, Роберт Мартин.md",
     "Base/DI (aiohttp).md",
-    "Base/DIP (архитектура).md",
+    "Base/HTTP server (aiohttp).md",
     "Base/HTTP client (aiohttp).md",
+    "Base/DIP (архитектура).md",
     "Base/00 asyncio.md",
     "Base/00 aiohttp.md",
     "Base/00 ClickHouse.md",
@@ -189,16 +174,6 @@
     "Base/Dockerfile.md",
     "Base/gitignore.md",
     "Base/00 Git.md",
-    "Base/Структура проекта (django).md",
-    "Base/Debug toolbar (Django).md",
-    "Base/00 PostgreSQL.md",
-    "Base/00 Python.md",
-    "Base/Хранение данных (docker).md",
-    "Base/Регулярные выражения (python).md",
-    "Base/Доступ к хосту (docker).md",
-    "Base/Примеры запросов (clickhouse).md",
-    "Base/ClickHouse общее.md",
-    "Base/Создание таблиц (clickhouse).md",
-    "Base/Конфигурация (clickhouse).md"
+    "Base/Структура проекта (django).md"
   ]
 }
