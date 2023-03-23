@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Выбор подхода к разработке.md",
+                "file": "Base/Практики по работе с моделями (django).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Выбор подхода к разработке.md",
+                "file": "Base/Практики по работе с моделями (django).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Выбор подхода к разработке.md",
+                "file": "Base/Практики по работе с моделями (django).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Выбор подхода к разработке.md"
+                "file": "Base/Практики по работе с моделями (django).md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "279c78d234a22cd4",
   "lastOpenFiles": [
-    "Base/Предварительные условия.md",
     "Base/Выбор подхода к разработке.md",
+    "Base/Практики по работе с моделями (django).md",
+    "Base/Предварительные условия.md",
     "Base/База данных (архитектура).md",
     "Base/Бизнес правила.md",
     "Base/Веб (архитетура).md",
@@ -173,7 +174,6 @@
     "Base/00 Docker.md",
     "Base/Dockerfile.md",
     "Base/gitignore.md",
-    "Base/00 Git.md",
-    "Base/Структура проекта (django).md"
+    "Base/00 Git.md"
   ]
 }
