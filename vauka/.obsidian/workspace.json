@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Практики по работе с моделями (django).md",
+                "file": "Base/Декоратор метода класса (py).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Практики по работе с моделями (django).md",
+                "file": "Base/Декоратор метода класса (py).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Практики по работе с моделями (django).md",
+                "file": "Base/Декоратор метода класса (py).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Практики по работе с моделями (django).md"
+                "file": "Base/Декоратор метода класса (py).md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "279c78d234a22cd4",
   "lastOpenFiles": [
-    "Base/Выбор подхода к разработке.md",
     "Base/Практики по работе с моделями (django).md",
+    "Base/Декоратор метода класса (py).md",
+    "Base/Выбор подхода к разработке.md",
     "Base/Предварительные условия.md",
     "Base/База данных (архитектура).md",
     "Base/Бизнес правила.md",
@@ -173,7 +174,6 @@
     "Base/Query (django).md",
     "Base/00 Docker.md",
     "Base/Dockerfile.md",
-    "Base/gitignore.md",
-    "Base/00 Git.md"
+    "Base/gitignore.md"
   ]
 }
