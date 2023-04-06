@@ -63,17 +63,17 @@ def time_it(func):
 Повторный вызов функции при возникновении определенных ошибок
 
 ```python
-def retry(num_retries, exc_to_check, sleep_time=0):
+def retry(num_tries, exc_to_check, sleep_time=0):
 	def decorate(func):
 		@wraps(func)
 		def wrapper(*args, **kwargs):
-			for i in range(1, num_retries + 1):
+			for i in range(num_tries):
 				try:
 					return func(*args, **kwargs)
 				except exc_to_check as exc:
 					if i < num_retries:
 						time.sleep(sleep_time)
-			raise exc
+			raise Exception
 		return wrapper
 	return decorate
 ```

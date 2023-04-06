@@ -57,25 +57,6 @@ class User:
 		self._name = anme
 ```
 
-## Декоратор как класс, а не функция
-
-```python
-class User:
-	class update_history:
-		def __init__(self, func):
-			self._func = func
-		
-		def __call__():
-			# ...
-	
-	def __init__(self, name):
-		self._name = name
-	
-	@update_history
-	def change_name(self, name):
-		self._name = anme
-```
-
 ---
 ### Zero-Links
 - 
