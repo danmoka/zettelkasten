@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb5e35d4982737e4",
+        "id": "1a838b0c2e8c45c2",
         "type": "tabs",
         "children": [
           {
-            "id": "f757c24b469125ba",
+            "id": "f68497e1a7954aa0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "37ad74615021a36d",
+  "active": "f68497e1a7954aa0",
   "lastOpenFiles": [
+    "Base/HTTP client (aiohttp).md",
     "Base/Асинхронные функции (pytest).md",
     "Base/Unit testing (py).md",
     "Base/asyncio.md",
@@ -161,7 +162,6 @@
     "Base/aiohttp.md",
     "Base/DI (aiohttp).md",
     "Base/HTTP server (aiohttp).md",
-    "Base/HTTP client (aiohttp).md",
     "Base/pass (py).md",
     "Base/Конфигурация (clickhouse).md",
     "Base/Декоратор применение (py).md",
