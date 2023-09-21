@@ -21,11 +21,13 @@ async def test_smth():
 
 ---
 ### Zero-Links
-- [[00 Python]]
+- 
 
 ---
 ### Links
 - [[Декоратор (py)]]
+- [[Unit testing (py)]]
+- [[asyncio]]
 
 ---
 ### Outer links

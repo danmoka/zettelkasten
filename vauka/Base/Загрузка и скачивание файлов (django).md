@@ -24,11 +24,11 @@ FileResponse(open('путь до файла', 'rb'), as_attachment=True)
 
 ---
 ### Zero-Links
-- [[00 Django]]
+- 
 
 ---
 ### Links
-- 
+- [[Django]]
   
 ---
 ### Outer links

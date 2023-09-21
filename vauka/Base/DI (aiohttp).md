@@ -40,11 +40,12 @@ def config_routes(app):
 
 ---
 ### Zero-Links
-- [[00 aiohttp]]
+- 
 
 ---
 ### Links
 - [[DIP (архитектура)]]
+- [[aiohttp]]
 
 ---
 ### Outer links

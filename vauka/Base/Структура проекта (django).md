@@ -8,11 +8,11 @@ Tags: #z #dev
 
 ---
 ### Zero-Links
-- [[00 Django]]
+- 
 
 ---
 ### Links
-- 
+- [[Django]]
 
 ### Outer links
 - https://github.com/HackSoftware/Django-Styleguide?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_14 - стайл гайд

@@ -73,12 +73,12 @@ web.run_app(app=app)
 
 ---
 ### Zero-Links
-- [[00 aiohttp]]
-- [[00 asyncio]]
+- 
 
 ---
 ### Links
 - [[DI (aiohttp)]]
+- [[aiohttp]]
 
 ---
 ### Outer links

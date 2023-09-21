@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de90f4305e2f8f4e",
+        "id": "bb5e35d4982737e4",
         "type": "tabs",
         "children": [
           {
-            "id": "a444e68f2f90b3ef",
+            "id": "f757c24b469125ba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Пример",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -107,7 +107,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -147,8 +147,27 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a444e68f2f90b3ef",
+  "active": "37ad74615021a36d",
   "lastOpenFiles": [
+    "Base/Асинхронные функции (pytest).md",
+    "Base/Unit testing (py).md",
+    "Base/asyncio.md",
+    "Base/Полиморфизм (py).md",
+    "Base/Django.md",
+    "Base/Query (django).md",
+    "Base/Debug toolbar (Django).md",
+    "Base/Загрузка и скачивание файлов (django).md",
+    "Base/Структура проекта (django).md",
+    "Base/aiohttp.md",
+    "Base/DI (aiohttp).md",
+    "Base/HTTP server (aiohttp).md",
+    "Base/HTTP client (aiohttp).md",
+    "Base/pass (py).md",
+    "Base/Конфигурация (clickhouse).md",
+    "Base/Декоратор применение (py).md",
+    "Base/Создание приложения на aiohttp.md",
+    "Base/Dockerfile.md",
+    "Base/00 Docker.md",
     "Base/Диаграммы последовательностей.md",
     "Files/Pasted image 20230831121701.png",
     "Files/Pasted image 20230831121629.png",

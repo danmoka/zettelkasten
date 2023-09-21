@@ -16,11 +16,11 @@ Car.objects.filter(color='red').exclude(year=1998)
 
 ---
 ### Zero-Links
-- [[00 Django]]
+- 
 
 ---
 ### Links
-- 
+- [[Django]]
 
 ---
 ### Outer links

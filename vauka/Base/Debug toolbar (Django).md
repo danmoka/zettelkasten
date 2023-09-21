@@ -35,11 +35,11 @@ Tags: #z #dev
 
 ---
 ### Zero-Links
-- [[00 Django]]
+- 
 
 ---
 ### Links
-- 
+- [[Django]]
 
 ---
 ### Outer links
