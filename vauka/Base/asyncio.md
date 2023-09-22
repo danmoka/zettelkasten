@@ -11,3 +11,7 @@ Tags: #dev
 ---
 ### Links
 - 
+
+---
+### Outer links
+- https://superfastpython.com/python-asyncio/

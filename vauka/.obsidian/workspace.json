@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Асинхронные функции (pytest).md",
+                "file": "Base/as_completed.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "542c03e7316dfbc1",
+            "id": "a29b56c749c1645c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Фикстуры (pytest).md",
+                "file": "Base/create_task.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Фикстуры (pytest).md",
+                "file": "Base/as_completed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Фикстуры (pytest).md",
+                "file": "Base/as_completed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Фикстуры (pytest).md"
+                "file": "Base/as_completed.md"
               }
             }
           },
@@ -178,20 +177,22 @@
       "random-note:Open random note": false
     }
   },
-  "active": "542c03e7316dfbc1",
+  "active": "f68497e1a7954aa0",
   "lastOpenFiles": [
-    "Base/Фикстуры (pytest).md",
     "Base/Асинхронные функции (pytest).md",
+    "Base/create_task.md",
+    "Base/asyncio.md",
+    "Base/aiohttp.md",
+    "Base/as_completed.md",
+    "Base/Фикстуры (pytest).md",
     "Base/HTTP client (aiohttp).md",
     "Base/Unit testing (py).md",
-    "Base/asyncio.md",
     "Base/Полиморфизм (py).md",
     "Base/Django.md",
     "Base/Query (django).md",
     "Base/Debug toolbar (Django).md",
     "Base/Загрузка и скачивание файлов (django).md",
     "Base/Структура проекта (django).md",
-    "Base/aiohttp.md",
     "Base/DI (aiohttp).md",
     "Base/HTTP server (aiohttp).md",
     "Base/pass (py).md",
@@ -206,8 +207,6 @@
     "Base/Исключение по ограничению (pgsql).md",
     "Base/SAP (абстрактность).md",
     "Base/== и is (py).md",
-    "Base/Магические методы (py).md",
-    "Base/Перегрузка операций (py).md",
     "Files/Пространства имен 2.png",
     "Files/Пространства имен 1.png",
     "Files/Pasted image 20220904175803.png",
