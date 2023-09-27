@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "09febde1f9b63a85",
+        "id": "4ca400454519874b",
         "type": "tabs",
         "children": [
           {
-            "id": "3c75cb5229ca01ef",
+            "id": "a0b8df5980a95976",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Обсуждение чистой архитектуры.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Обсуждение чистой архитектуры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Обсуждение чистой архитектуры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Обсуждение чистой архитектуры.md"
+              }
             }
           },
           {
@@ -157,8 +165,25 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3c75cb5229ca01ef",
+  "active": "a0b8df5980a95976",
   "lastOpenFiles": [
+    "Base/Чистая архитектура и границы.md",
+    "Base/Обсуждение чистой архитектуры.md",
+    "Base/CCP (связность).md",
+    "Base/SOLID.md",
+    "Base/SAP (абстрактность).md",
+    "Base/HTTP server (aiohttp).md",
+    "Base/HTTP client (aiohttp).md",
+    "Base/Проведение границ (архитектура).md",
+    "Base/Чистая архитектура, Роберт Мартин.md",
+    "Base/DIP (архитектура).md",
+    "Base/DI (aiohttp).md",
+    "Base/Debug toolbar (Django).md",
+    "Base/Чистая архитектура и круги.md",
+    "Base/Списки выборки (pgsql).md",
+    "Base/Создание приложения на aiohttp.md",
+    "Base/Противоречия связности.md",
+    "Base/Доступ к хосту (docker).md",
     "Base/run_in_executor.md",
     "Base/ThreadPoolExecutor.md",
     "Base/as_completed.md",
@@ -167,26 +192,9 @@
     "Base/asyncio.md",
     "Base/aiohttp.md",
     "Base/Фикстуры (pytest).md",
-    "Base/HTTP client (aiohttp).md",
     "Base/Unit testing (py).md",
-    "Base/Полиморфизм (py).md",
-    "Base/Django.md",
-    "Base/Query (django).md",
-    "Base/Debug toolbar (Django).md",
-    "Base/Загрузка и скачивание файлов (django).md",
-    "Base/Структура проекта (django).md",
-    "Base/DI (aiohttp).md",
-    "Base/HTTP server (aiohttp).md",
-    "Base/pass (py).md",
-    "Base/Конфигурация (clickhouse).md",
-    "Base/Декоратор применение (py).md",
-    "Base/Создание приложения на aiohttp.md",
-    "Base/Dockerfile.md",
-    "Base/00 Docker.md",
-    "Base/Диаграммы последовательностей.md",
     "Files/Pasted image 20230831121701.png",
     "Files/Pasted image 20230831121629.png",
-    "Base/Исключение по ограничению (pgsql).md",
     "Files/Пространства имен 2.png",
     "Files/Пространства имен 1.png",
     "Files/Pasted image 20220904175803.png",
