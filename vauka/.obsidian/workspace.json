@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca400454519874b",
+        "id": "8df843484d8b5905",
         "type": "tabs",
         "children": [
           {
-            "id": "a0b8df5980a95976",
+            "id": "ce67b824a645989c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Обсуждение чистой архитектуры.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Обсуждение чистой архитектуры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Обсуждение чистой архитектуры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/Обсуждение чистой архитектуры.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +157,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a0b8df5980a95976",
+  "active": "ce67b824a645989c",
   "lastOpenFiles": [
-    "Base/Чистая архитектура и границы.md",
+    "Base/Фикстуры (pytest).md",
+    "Base/Мок файловой системы (pytest).md",
+    "Base/Контекстный менеджер (py).md",
+    "Base/Декоратор метода класса (py).md",
+    "Base/Поиск пропусков и островов (gaps & islands).md",
     "Base/Обсуждение чистой архитектуры.md",
+    "Base/Чистая архитектура и границы.md",
     "Base/CCP (связность).md",
     "Base/SOLID.md",
     "Base/SAP (абстрактность).md",
@@ -188,11 +185,6 @@
     "Base/ThreadPoolExecutor.md",
     "Base/as_completed.md",
     "Base/create_task.md",
-    "Base/Асинхронные функции (pytest).md",
-    "Base/asyncio.md",
-    "Base/aiohttp.md",
-    "Base/Фикстуры (pytest).md",
-    "Base/Unit testing (py).md",
     "Files/Pasted image 20230831121701.png",
     "Files/Pasted image 20230831121629.png",
     "Files/Пространства имен 2.png",
