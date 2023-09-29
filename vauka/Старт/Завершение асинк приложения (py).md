@@ -58,6 +58,12 @@ if __name__ == '__main__':
 >[!note] Исключения
 >Если возникло исключение-прерывание, то выполняем задачу по остановке диспетчера, закрываем и очищаем цикл событий
 
+## aiohttp
+
+aiohttp может запускать задачи в фоновом режиме, при этом корректно их останавливать:
+- cleanup_ctx
+- обработчики сигналов on_startup, on_cleanup
+
 ---
 ### Zero-Links
 - 
@@ -65,4 +71,9 @@ if __name__ == '__main__':
 ---
 ### Links
 - [[asyncio]]
+- [[aiohttp]]
+  
+---
+### Outer links
+- https://docs.aiohttp.org/en/v3.8.1/web_advanced.html#background-tasks
 
