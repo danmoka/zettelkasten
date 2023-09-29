@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8df843484d8b5905",
+        "id": "85f53b6abc3c005b",
         "type": "tabs",
         "children": [
           {
-            "id": "ce67b824a645989c",
+            "id": "74ef76ae883c05a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,8 +157,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ce67b824a645989c",
+  "active": "74ef76ae883c05a9",
   "lastOpenFiles": [
+    "Старт/Завершение асинк приложения (py).md",
+    "Старт",
     "Base/Фикстуры (pytest).md",
     "Base/Мок файловой системы (pytest).md",
     "Base/Контекстный менеджер (py).md",
@@ -184,7 +186,6 @@
     "Base/run_in_executor.md",
     "Base/ThreadPoolExecutor.md",
     "Base/as_completed.md",
-    "Base/create_task.md",
     "Files/Pasted image 20230831121701.png",
     "Files/Pasted image 20230831121629.png",
     "Files/Пространства имен 2.png",
