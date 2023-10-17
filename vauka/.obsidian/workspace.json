@@ -11,8 +11,12 @@
             "id": "4fab8c6a00c25704",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Async yield (py).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Async yield (py).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Async yield (py).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Async yield (py).md"
+              }
             }
           },
           {
@@ -157,8 +165,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4fab8c6a00c25704",
+  "active": "37ad74615021a36d",
   "lastOpenFiles": [
+    "Base/asyncio.md",
+    "Base/Async yield (py).md",
+    "Base/yield (py).md",
+    "Base/ThreadPoolExecutor.md",
     "Base/Обработка ошибок (py).md",
     "Base/Django.md",
     "Старт/Завершение асинк приложения (py).md",
@@ -182,10 +194,6 @@
     "Base/DI (aiohttp).md",
     "Base/Debug toolbar (Django).md",
     "Base/Чистая архитектура и круги.md",
-    "Base/Списки выборки (pgsql).md",
-    "Base/Создание приложения на aiohttp.md",
-    "Base/Противоречия связности.md",
-    "Base/Доступ к хосту (docker).md",
     "Files/Pasted image 20230831121701.png",
     "Files/Pasted image 20230831121629.png",
     "Files/Пространства имен 2.png",
