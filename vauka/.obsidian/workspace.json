@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b01f1af8885fd89",
+        "id": "d3f45860cd00c817",
         "type": "tabs",
         "children": [
           {
-            "id": "dd5759e12119fd04",
+            "id": "4fab8c6a00c25704",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Зав",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +157,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dd5759e12119fd04",
+  "active": "4fab8c6a00c25704",
   "lastOpenFiles": [
+    "Base/Обработка ошибок (py).md",
+    "Base/Django.md",
     "Старт/Завершение асинк приложения (py).md",
     "Base/Политики и уровень.md",
     "Старт",
@@ -184,8 +186,6 @@
     "Base/Создание приложения на aiohttp.md",
     "Base/Противоречия связности.md",
     "Base/Доступ к хосту (docker).md",
-    "Base/run_in_executor.md",
-    "Base/ThreadPoolExecutor.md",
     "Files/Pasted image 20230831121701.png",
     "Files/Pasted image 20230831121629.png",
     "Files/Пространства имен 2.png",

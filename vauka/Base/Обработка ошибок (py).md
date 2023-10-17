@@ -28,4 +28,8 @@ Tags: #z #dev
 
 ---
 ### Links
-- 
+- [[Django]]
+
+---
+### Outer links
+- https://github.com/HackSoftware/Django-Styleguide#errors--exception-handling обработка в django приложении
