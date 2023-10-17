@@ -64,6 +64,35 @@ aiohttp может запускать задачи в фоновом режим�
 - cleanup_ctx
 - обработчики сигналов on_startup, on_cleanup
 
+## Пример
+
+```python
+async def run_dispatcher(app: web.Application) -> None:  
+    dispatcher = app.container.dispatcher()  
+    dispatcher_task = asyncio.create_task(dispatcher.start())  
+  
+    yield  
+  
+    await dispatcher.stop()  
+  
+    try:  
+        await dispatcher_task  
+    except asyncio.CancelledError:  
+        # основная задача завершена  
+        assert dispatcher_task.cancelled()  
+  
+  
+def main() -> None:  
+    app = web.Application()  
+    startup(app=app, container=ApplicationContainer())  
+    app.cleanup_ctx.append(run_dispatcher)  
+    web.run_app(app=app)  
+  
+  
+if __name__ == '__main__':  
+    main()
+```
+
 ---
 ### Zero-Links
 - 

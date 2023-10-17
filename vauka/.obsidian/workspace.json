@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f45860cd00c817",
+        "id": "b5f76ffaa793e0d1",
         "type": "tabs",
         "children": [
           {
-            "id": "4fab8c6a00c25704",
+            "id": "95dfaae1e2dbf7ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Async yield (py).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pa",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Async yield (py).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Async yield (py).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/Async yield (py).md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,15 +157,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "37ad74615021a36d",
+  "active": "95dfaae1e2dbf7ab",
   "lastOpenFiles": [
-    "Base/asyncio.md",
+    "Base/DI (aiohttp).md",
+    "Старт/Завершение асинк приложения (py).md",
     "Base/Async yield (py).md",
+    "Base/asyncio.md",
     "Base/yield (py).md",
     "Base/ThreadPoolExecutor.md",
     "Base/Обработка ошибок (py).md",
     "Base/Django.md",
-    "Старт/Завершение асинк приложения (py).md",
     "Base/Политики и уровень.md",
     "Старт",
     "Base/Фикстуры (pytest).md",
@@ -191,7 +184,6 @@
     "Base/Проведение границ (архитектура).md",
     "Base/Чистая архитектура, Роберт Мартин.md",
     "Base/DIP (архитектура).md",
-    "Base/DI (aiohttp).md",
     "Base/Debug toolbar (Django).md",
     "Base/Чистая архитектура и круги.md",
     "Files/Pasted image 20230831121701.png",
