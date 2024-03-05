@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e32a3e4b7690ef0",
+        "id": "f845d8ef8d2a96b6",
         "type": "tabs",
         "children": [
           {
-            "id": "02d38af87667cd57",
+            "id": "3b83d630d3884384",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ООП",
+                "query": "структурное",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,15 +159,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "02d38af87667cd57",
+  "active": "3b83d630d3884384",
   "lastOpenFiles": [
-    "Base/00 Парадигмы программирования.md",
     "Base/Структурное программирование.md",
-    "Base/Чистая архитектура, Роберт Мартин.md",
+    "Base/Парадигмы программирования.md",
     "Base/ООП.md",
     "Base/Функциональное программирование.md",
-    "Base/Event sourcing.md",
     "Base/00 Архитектура и дизайн ПО.md",
+    "Base/Компоненты.md",
+    "Base/CCP (связность).md",
+    "Base/Чистая архитектура, Роберт Мартин.md",
+    "Base/Event sourcing.md",
     "Files/Pasted image 20240305123029.png",
     "Files/Pasted image 20240305111457.png",
     "Files/Pasted image 20221208172850.png",
@@ -195,8 +197,6 @@
     "Base/Обработка ошибок (py).md",
     "Base/Django.md",
     "Base/Политики и уровень.md",
-    "Старт",
-    "Base/Фикстуры (pytest).md",
-    "Base/Мок файловой системы (pytest).md"
+    "Старт"
   ]
 }
