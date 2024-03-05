@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2486075df16759e",
+        "id": "7e32a3e4b7690ef0",
         "type": "tabs",
         "children": [
           {
-            "id": "200f22a0b473d90d",
+            "id": "02d38af87667cd57",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ООП",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,8 +159,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "200f22a0b473d90d",
+  "active": "02d38af87667cd57",
   "lastOpenFiles": [
+    "Base/00 Парадигмы программирования.md",
+    "Base/Структурное программирование.md",
+    "Base/Чистая архитектура, Роберт Мартин.md",
+    "Base/ООП.md",
+    "Base/Функциональное программирование.md",
+    "Base/Event sourcing.md",
+    "Base/00 Архитектура и дизайн ПО.md",
     "Files/Pasted image 20240305123029.png",
     "Files/Pasted image 20240305111457.png",
     "Files/Pasted image 20221208172850.png",
@@ -172,11 +180,9 @@
     "Files/Pasted image 20240305100517.png",
     "Files/Pasted image 20230831121629.png",
     "Base/Проведение границ (архитектура).md",
-    "Files/Pasted image 20220903125026.png",
     "Base/Практики по работе с моделями (django).md",
     "Templates/Base template.md",
     "Base/00 UML.md",
-    "Base/00 Архитектура.md",
     "Base/00 Разработка.md",
     "Base/Завершение асинк приложения (py).md",
     "Base/run_in_executor.md",
@@ -191,11 +197,6 @@
     "Base/Политики и уровень.md",
     "Старт",
     "Base/Фикстуры (pytest).md",
-    "Base/Мок файловой системы (pytest).md",
-    "Base/Контекстный менеджер (py).md",
-    "Base/Декоратор метода класса (py).md",
-    "Base/Поиск пропусков и островов (gaps & islands).md",
-    "Base/Обсуждение чистой архитектуры.md",
-    "Base/Чистая архитектура и границы.md"
+    "Base/Мок файловой системы (pytest).md"
   ]
 }
