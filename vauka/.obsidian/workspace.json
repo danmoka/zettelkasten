@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b5f76ffaa793e0d1",
+        "id": "c2486075df16759e",
         "type": "tabs",
         "children": [
           {
-            "id": "95dfaae1e2dbf7ab",
+            "id": "200f22a0b473d90d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -45,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -157,10 +158,30 @@
       "random-note:Open random note": false
     }
   },
-  "active": "95dfaae1e2dbf7ab",
+  "active": "200f22a0b473d90d",
   "lastOpenFiles": [
+    "Files/Pasted image 20240305123029.png",
+    "Files/Pasted image 20240305111457.png",
+    "Files/Pasted image 20221208172850.png",
+    "Files/Pasted image 20221204201604.png",
+    "Files/Pasted image 20221204201741.png",
+    "Files/Pasted image 20240305122902.png",
+    "Base/Диаграммы последовательностей.md",
+    "Files/Pasted image 20240305122919.png",
+    "Files/Pasted image 20240305101049.png",
+    "Files/Pasted image 20240305100517.png",
+    "Files/Pasted image 20230831121629.png",
+    "Base/Проведение границ (архитектура).md",
+    "Files/Pasted image 20220903125026.png",
+    "Base/Практики по работе с моделями (django).md",
+    "Templates/Base template.md",
+    "Base/00 UML.md",
+    "Base/00 Архитектура.md",
+    "Base/00 Разработка.md",
+    "Base/Завершение асинк приложения (py).md",
+    "Base/run_in_executor.md",
+    "Base/Query (django).md",
     "Base/DI (aiohttp).md",
-    "Старт/Завершение асинк приложения (py).md",
     "Base/Async yield (py).md",
     "Base/asyncio.md",
     "Base/yield (py).md",
@@ -175,24 +196,6 @@
     "Base/Декоратор метода класса (py).md",
     "Base/Поиск пропусков и островов (gaps & islands).md",
     "Base/Обсуждение чистой архитектуры.md",
-    "Base/Чистая архитектура и границы.md",
-    "Base/CCP (связность).md",
-    "Base/SOLID.md",
-    "Base/SAP (абстрактность).md",
-    "Base/HTTP server (aiohttp).md",
-    "Base/HTTP client (aiohttp).md",
-    "Base/Проведение границ (архитектура).md",
-    "Base/Чистая архитектура, Роберт Мартин.md",
-    "Base/DIP (архитектура).md",
-    "Base/Debug toolbar (Django).md",
-    "Base/Чистая архитектура и круги.md",
-    "Files/Pasted image 20230831121701.png",
-    "Files/Pasted image 20230831121629.png",
-    "Files/Пространства имен 2.png",
-    "Files/Пространства имен 1.png",
-    "Files/Pasted image 20220904175803.png",
-    "Files/Pasted image 20220903125150.png",
-    "Files/Pasted image 20220903125122.png",
-    "Files/Pasted image 20220903125059.png"
+    "Base/Чистая архитектура и границы.md"
   ]
 }
