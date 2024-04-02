@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f845d8ef8d2a96b6",
+        "id": "472a69f00c33f893",
         "type": "tabs",
         "children": [
           {
-            "id": "3b83d630d3884384",
+            "id": "dc05747f738672f2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "структурное",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,13 +159,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3b83d630d3884384",
+  "active": "dc05747f738672f2",
   "lastOpenFiles": [
-    "Base/Структурное программирование.md",
-    "Base/Парадигмы программирования.md",
-    "Base/ООП.md",
-    "Base/Функциональное программирование.md",
+    "Base/00 Архитектурные паттерны.md",
+    "Base/Обмен сообщениями.md",
+    "Base/00 Архитектурные стили.md",
+    "Base/Архитектура, управляемая событиями (EDA).md",
     "Base/00 Архитектура и дизайн ПО.md",
+    "Base/Парадигмы программирования.md",
+    "Base/Функциональное программирование.md",
+    "Base/Диаграммы последовательностей.md",
+    "Base/00 UML.md",
+    "Base/Структурное программирование.md",
+    "Base/ООП.md",
     "Base/Компоненты.md",
     "Base/CCP (связность).md",
     "Base/Чистая архитектура, Роберт Мартин.md",
@@ -176,7 +182,6 @@
     "Files/Pasted image 20221204201604.png",
     "Files/Pasted image 20221204201741.png",
     "Files/Pasted image 20240305122902.png",
-    "Base/Диаграммы последовательностей.md",
     "Files/Pasted image 20240305122919.png",
     "Files/Pasted image 20240305101049.png",
     "Files/Pasted image 20240305100517.png",
@@ -184,7 +189,6 @@
     "Base/Проведение границ (архитектура).md",
     "Base/Практики по работе с моделями (django).md",
     "Templates/Base template.md",
-    "Base/00 UML.md",
     "Base/00 Разработка.md",
     "Base/Завершение асинк приложения (py).md",
     "Base/run_in_executor.md",
@@ -193,10 +197,6 @@
     "Base/Async yield (py).md",
     "Base/asyncio.md",
     "Base/yield (py).md",
-    "Base/ThreadPoolExecutor.md",
-    "Base/Обработка ошибок (py).md",
-    "Base/Django.md",
-    "Base/Политики и уровень.md",
     "Старт"
   ]
 }
