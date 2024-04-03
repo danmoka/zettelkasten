@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "472a69f00c33f893",
+        "id": "438952ba09a2d55b",
         "type": "tabs",
         "children": [
           {
-            "id": "dc05747f738672f2",
+            "id": "a20d68af8eedf2f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,12 +159,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dc05747f738672f2",
+  "active": "a20d68af8eedf2f5",
   "lastOpenFiles": [
-    "Base/00 Архитектурные паттерны.md",
-    "Base/Обмен сообщениями.md",
-    "Base/00 Архитектурные стили.md",
     "Base/Архитектура, управляемая событиями (EDA).md",
+    "Base/Обмен сообщениями.md",
+    "Base/Kafka.md",
+    "Base/00 Архитектурные паттерны.md",
+    "Base/00 Архитектурные стили.md",
     "Base/00 Архитектура и дизайн ПО.md",
     "Base/Парадигмы программирования.md",
     "Base/Функциональное программирование.md",
@@ -196,7 +197,6 @@
     "Base/DI (aiohttp).md",
     "Base/Async yield (py).md",
     "Base/asyncio.md",
-    "Base/yield (py).md",
     "Старт"
   ]
 }
