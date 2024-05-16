@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91788b2d5c7ed010",
+        "id": "84a05371172cfba5",
         "type": "tabs",
         "children": [
           {
-            "id": "e76e6d65b0d04c82",
+            "id": "324bed3fb60ed451",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,8 +159,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e76e6d65b0d04c82",
+  "active": "324bed3fb60ed451",
   "lastOpenFiles": [
+    "Base/Вертикальное и горизонтальное масштабирование.md",
+    "Base/Масштабирование базы данных.md",
+    "Base/System Design, Алекс Сюй.md",
+    "Base/== и is (py).md",
+    "Base/Изучаем Python, Том 1, издание 5, Марк Лутц.md",
     "Base/DDD.md",
     "Base/00 Архитектурные паттерны.md",
     "Base/Архитектура, управляемая событиями (EDA).md",
@@ -192,11 +197,6 @@
     "Base/Практики по работе с моделями (django).md",
     "Templates/Base template.md",
     "Base/00 Разработка.md",
-    "Base/Завершение асинк приложения (py).md",
-    "Base/run_in_executor.md",
-    "Base/Query (django).md",
-    "Base/DI (aiohttp).md",
-    "Base/Async yield (py).md",
     "Старт"
   ]
 }
