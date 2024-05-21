@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84a05371172cfba5",
+        "id": "690a8de2a9733879",
         "type": "tabs",
         "children": [
           {
-            "id": "324bed3fb60ed451",
+            "id": "14689dc9c70e47a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,10 +159,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "324bed3fb60ed451",
+  "active": "14689dc9c70e47a6",
   "lastOpenFiles": [
-    "Base/Вертикальное и горизонтальное масштабирование.md",
     "Base/Масштабирование базы данных.md",
+    "Base/Репликация базы данных.md",
+    "Base/Уровень кэша.md",
+    "Base/Вертикальное и горизонтальное масштабирование.md",
     "Base/System Design, Алекс Сюй.md",
     "Base/== и is (py).md",
     "Base/Изучаем Python, Том 1, издание 5, Марк Лутц.md",
@@ -195,8 +197,6 @@
     "Files/Pasted image 20230831121629.png",
     "Base/Проведение границ (архитектура).md",
     "Base/Практики по работе с моделями (django).md",
-    "Templates/Base template.md",
-    "Base/00 Разработка.md",
     "Старт"
   ]
 }
