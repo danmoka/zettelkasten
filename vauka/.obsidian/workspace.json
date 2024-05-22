@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "690a8de2a9733879",
+        "id": "2530d709cc7a83de",
         "type": "tabs",
         "children": [
           {
-            "id": "14689dc9c70e47a6",
+            "id": "cf0f9eb949b033c9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,11 +159,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "14689dc9c70e47a6",
+  "active": "cf0f9eb949b033c9",
   "lastOpenFiles": [
+    "Base/CDN.md",
+    "Base/Веб-уровень без сохранения состояния.md",
+    "Base/Синхронизация ЦОДов.md",
+    "Base/Уровень кэша.md",
     "Base/Масштабирование базы данных.md",
     "Base/Репликация базы данных.md",
-    "Base/Уровень кэша.md",
     "Base/Вертикальное и горизонтальное масштабирование.md",
     "Base/System Design, Алекс Сюй.md",
     "Base/== и is (py).md",
@@ -184,7 +187,6 @@
     "Base/Компоненты.md",
     "Base/CCP (связность).md",
     "Base/Чистая архитектура, Роберт Мартин.md",
-    "Base/Event sourcing.md",
     "Files/Pasted image 20240305123029.png",
     "Files/Pasted image 20240305111457.png",
     "Files/Pasted image 20221208172850.png",
@@ -195,8 +197,6 @@
     "Files/Pasted image 20240305101049.png",
     "Files/Pasted image 20240305100517.png",
     "Files/Pasted image 20230831121629.png",
-    "Base/Проведение границ (архитектура).md",
-    "Base/Практики по работе с моделями (django).md",
     "Старт"
   ]
 }
