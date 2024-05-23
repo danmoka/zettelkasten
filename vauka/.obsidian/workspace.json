@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2530d709cc7a83de",
+        "id": "00337f4befc8b265",
         "type": "tabs",
         "children": [
           {
-            "id": "cf0f9eb949b033c9",
+            "id": "a46e62dbad73fcb1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,8 +159,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "cf0f9eb949b033c9",
+  "active": "a46e62dbad73fcb1",
   "lastOpenFiles": [
+    "Base/Латентность и доступность.md",
     "Base/CDN.md",
     "Base/Веб-уровень без сохранения состояния.md",
     "Base/Синхронизация ЦОДов.md",
@@ -186,7 +187,6 @@
     "Base/ООП.md",
     "Base/Компоненты.md",
     "Base/CCP (связность).md",
-    "Base/Чистая архитектура, Роберт Мартин.md",
     "Files/Pasted image 20240305123029.png",
     "Files/Pasted image 20240305111457.png",
     "Files/Pasted image 20221208172850.png",
